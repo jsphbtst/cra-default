@@ -4,4 +4,6 @@ Personal CRA setup with default settings. Module imports (for both tests and the
 
 Planning to expand on `theme.js` in the future to include more standardized styling options. Makes UI design much more consistent that way.
 
+Also added GH actions for some CI goodness. Feel free to ignore that for your own projects.
+
 Still a work in progress but feel free to clone for your own projects, I guess. Idk your life not mine.
